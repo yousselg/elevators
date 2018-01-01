@@ -1,0 +1,6 @@
+autoEnabled=true
+eclipse.preferences.version=1
+extraProperties=
+moduleKey=com.sqli.test\:elevators
+projectKey=com.sqli.test\:elevators
+serverId=Local SonarQube
