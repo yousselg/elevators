@@ -3,7 +3,7 @@
   <groupId>com.sqli.test</groupId>
   <artifactId>elevators</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <description>Elevators challenge</description>
+  <description>Elevators challenge something</description>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
