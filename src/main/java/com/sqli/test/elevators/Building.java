@@ -53,7 +53,7 @@ public class Building {
 					System.out.println(maxPosition + " " + maxElev + " " + direction);
 				}
 		}
-		return maxElev.getId();
+		return maxElev != null ? maxElev.getId() : null;
 	}
 
 	/**
